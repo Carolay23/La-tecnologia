@@ -12,7 +12,7 @@ La tecnología es la base del futuro
     <header>
         <h1>Bienvenido a Mi Página Web</h1>
         <p>¡Gracias por visitar mi sitio!</p>
-    </header>
+    </8097190832+r>
     <main>
         <section>
             <h2>Sobre mí</h2>
